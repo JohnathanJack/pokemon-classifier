@@ -9,4 +9,4 @@ The goal of this project is to create an image classification model through a CN
 2. Experiment with CNN layers and choose the best model that produces the highest accuracy
 
 # Results
-Preliminary results on a small dataset show around an 80% accuracy rate for the model. The model itself fluctuates between 70-90% accuracy and increasing the number of epochs and data will definitely help stabilize the accuracy and loss. 
+Preliminary results on a small dataset show around an 88% accuracy rate for the model. The model itself fluctuates between 70-90% accuracy and increasing the number of epochs and data will definitely help stabilize the accuracy and loss. 
